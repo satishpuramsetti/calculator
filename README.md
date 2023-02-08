@@ -8,4 +8,4 @@ Calculators require an Interactive interface to perform basic functions such as 
  
  
  # output
-  ![alt text]()
+  ![alt text](https://github.com/satishpuramsetti/calculator/blob/main/output.jpg?raw=true)
